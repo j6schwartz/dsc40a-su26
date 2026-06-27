@@ -1,45 +1,48 @@
 ---
-title: "Week 5 – Multiple Linear Regression, Feature Engineering<br><small>📘 Read <a href='resources/notes/notes_chapter_1.pdf#page=16'>Note 1, Pages 16-17</a>.</small>"
+title: "Week 5 – Conditional Independence, Naïve Bayes, and Classification<br><small>📘 Read this note on <a href='conditional-independence'>conditional independence</a>.</small>"
 weekNumber: 5
 days:
-  - date: "2024-04-29"
+  - date: "2026-07-27"
     events:
-      - name: DISC 4
-        type: disc
-        title: Groupwork 4
-        problems: resources/groupworks/gw04.pdf
-        template: https://www.overleaf.com/read/fnhwmtrtrmhj#cbd4a6
-  - date: "2024-04-30"
+      - name: LEC 8
+        type: lecture
+        title: Independence and Conditional Independence; Naïve Bayes
+        # blank: resources/lectures/lec01/lec01-blank.pdf
+        # filled: resources/lectures/lec01/lec01-filled.pdf
+        podcast: 
+        reading:
+  - date: "2026-07-28"
+    events:
+      - name: HW 7
+        type: hw
+        title: Homework 7 Due
+        # problems: resources/homeworks/hw-example.pdf
+        # walkthrough: https://www.youtube.com/playlist?list=PLDNbnocpJUhYtg3s2__3pbh1kNKYxXaFM
+  - date: "2026-07-29" 
     events:
       - name: LEC 9
         type: lecture
-        title: Multiple Linear Regression
-        blank: resources/lectures/lec09/lec09-blank.pdf
-        code: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc40a-2024-sp&subPath=lectures/lec09/lec09-code.ipynb
-        # url: resources/lectures/lec03/lec03.html
-        filled: resources/lectures/lec09/lec09-filled.pdf
-        podcast: https://podcast.ucsd.edu/watch/sp24/dsc40a_b00/9
-  - date: "2024-05-02"
+        title: Review and Final Thoughts
+        # blank: resources/lectures/lec01/lec01-blank.pdf
+        # filled: resources/lectures/lec01/lec01-filled.pdf
+        podcast: 
+        reading:
+  - date: "2026-07-30"
     events:
-      - name: LEC 10
-        type: lecture
-        title: Feature Engineering, Gradient Descent
-        blank: resources/lectures/lec10/lec10-blank.pdf
-        code: http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc40a-2024-sp&subPath=lectures/lec10/lec10-code.ipynb
-        animations: resources/lectures/lec10
-        filled: resources/lectures/lec10/lec10-filled.pdf
-        podcast: https://podcast.ucsd.edu/watch/sp24/dsc40a_b00/10
-      - name: HW 4
+      - name: DISC 4
+        type: disc
+        title: Groupwork 4 Due
+        # problems: resources/groupworks/gw04.pdf
+        template: 
+        # walkthrough: 
+      - name: HW 8
         type: hw
-        title: <b>Homework 4</b>
-        problems: resources/homeworks/hw04.pdf
-        template: https://www.overleaf.com/read/qfndvkfjchqm#11ae69
-  - date: "2024-05--3"
+        title: Homework 8 Due
+        # problems: resources/homeworks/hw-example.pdf
+        # walkthrough:
+  - date: "2026-07-31"
     events:
-      - name: REV
-        type: lecture
-        title: Midterm Review Session (Center Hall 109, 2-5PM)
-        blank: resources/review/mt-review-blank.pdf
-        filled: resources/review/mt-review-filled.pdf
-        podcast: https://podcast.ucsd.edu/watch/sp24/dsc40a_a00/21
+      - name: EXAM
+        type: exam
+        title: Final Exam, 11:30AM-2:30PM
 ---

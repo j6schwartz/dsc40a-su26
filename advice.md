@@ -1,6 +1,6 @@
 ---
 layout: page
-title: (new) 🫂 Advice
+title: 🫂 Advice
 description: Advice from tutors on how to study for this class.
 nav_order: 8
 ---

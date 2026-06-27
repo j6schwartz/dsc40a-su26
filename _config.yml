@@ -28,14 +28,14 @@ search_enabled: true
 heading_anchors: true
 permalink: pretty
 aux_links:
-  🙋 Ed:
+  🙋 XXXX:
     - ''
   💯 Gradescope:
     - 'https://www.gradescope.com/'
   💪 Practice:
     - 'https://practice.dsc40a.com'
-  🤔 Lecture Questions:
-    - ''
+  # 🤔 Lecture Questions:
+  #   - ''
 footer_content:
 
 # Collections for website data
