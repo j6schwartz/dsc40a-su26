@@ -14,10 +14,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: DSC 40A
-description: DSC 40A, Spring 2024 at UC San Diego
+description: DSC 40A, Summer 2026 at UC San Diego
 tagline: Theoretical Foundations of Data Science I
-baseurl: '/dsc40a-2024-sp' # the subpath of your site, e.g. /blog
-url: 'https://dsc-courses.github.io' # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: '/dsc40a-su26' # the subpath of your site, e.g. /blog
+url: 'https://j6schwartz.github.io' # the base hostname & protocol for your site, e.g. http://example.com
 author: DSC 40A course staff
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
 
@@ -29,13 +29,13 @@ heading_anchors: true
 permalink: pretty
 aux_links:
   🙋 Ed:
-    - 'https://edstem.org/us/courses/57667/discussion/'
+    - ''
   💯 Gradescope:
-    - 'https://www.gradescope.com/courses/759109/'
+    - 'https://www.gradescope.com/'
   💪 Practice:
     - 'https://practice.dsc40a.com'
   🤔 Lecture Questions:
-    - 'https://docs.google.com/forms/d/e/1FAIpQLSfEaSAGovXZCk_51_CVI587CcGW1GZH1w4Y50dKDzoLEX3D4w/viewform'
+    - ''
 footer_content:
 
 # Collections for website data
