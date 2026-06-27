@@ -27,13 +27,14 @@ But how do we learn from data? This is the central question of DSC 40A. We will 
 
 ## Communication 💬
 
-This quarter, we'll be using [Ed](https://edstem.org/us/courses/57667/discussion/4667406) as our course message board. You should be added to Ed automatically; if not, join using [this link](https://edstem.org/us/join/tFGYBG). Please join right away as we'll be making all course announcements through Ed.
+This quarter, we’ll be using XXXX as our course message board. You should be added to XXXX automatically; if not, join using this link. Please join right away as we’ll be making all course announcements through XXXX.
 
-If you have a question about anything to do with the course — if you're stuck on a problem, didn't understand something from lecture, want clarification on course logistics, or just have a general question about data science — you can make a post on Ed. We only ask that if your question includes some or all of an answer (even if you're not sure it's right), please make your post private so that others cannot see it. You can also post anonymously if you would prefer.
+If you have a question about anything to do with the course — if you’re stuck on a problem, didn’t understand something from lecture, want clarification on course logistics, or just have a general question about data science — you can make a post on XXXX. We only ask that if your question includes some or all of an answer (even if you’re not sure it’s right), please make your post private so that others cannot see it. You can also post anonymously if you would prefer.
 
-Course staff will regularly check Ed and try to answer any questions that you have. You're also encouraged to answer questions asked by other students. Explaining something is a great way to solidify your understanding of it!
+Course staff will regularly check XXXX and try to answer any questions that you have. You’re also encouraged to answer questions asked by other students. Explaining something is a great way to solidify your understanding of it! This quarter we will be awarding 2% of your overall grade to your contributions on XXXX. You must contribute twice, each worth 1%. These may be public or private posts, answering questions, etc.
 
-Please don't email staff members (and don't message them on social media), just make a private or public Ed post instead!
+Please don’t email staff members (and don’t message them on social media), just make a private or public XXXX post instead!
+
 
 ---
 
@@ -41,9 +42,9 @@ Please don't email staff members (and don't message them on social media), just 
 
 We will be using several websites this quarter. Here's what they're all used for:
 
-- [Course Website](https://dsc40a.com): Where all content will be posted.
-- [Ed](https://edstem.org/us/courses/57667/discussion/4667406): Discussion forum for announcements and communication.
-- [Gradescope](https://www.gradescope.com/courses/759109/): Platform for submitting assignments and viewing grades. You should be automatically added to Gradescope within 24 hours of enrolling.
+- [Course Website](): Where all content will be posted.
+- [XXXX](): Discussion forum for announcements and communication.
+- [Gradescope](https://www.gradescope.com): Platform for submitting assignments and viewing grades. You should be automatically added to Gradescope within 24 hours of enrolling.
 - [Datahub](https://datahub.ucsd.edu): UCSD's data science and machine learning platform, for coding in Jupyter notebooks.
 
 **Note that we will not be using Canvas at all.**
@@ -52,45 +53,41 @@ We will be using several websites this quarter. Here's what they're all used for
 
 ## Course Structure 🍎
 
-This course will include in-person lectures, groupwork sessions in discussion section, and weekly homework assignments.
+This course will include fully remote lectures, groupwork, and twice weekly homework assignments.
 
 ### Lecture
 
-There are two lecture sections:
+Lecture will take place Monday and Wednesday on Zoom (link is available on XXXX) from 11:00am-1:50pm PT. Lecture is meant to introduce you to the main concepts of the course. Attendance is highly encouraged and positively correlated with success in the course, though it will not be required. Attending lecture gives you the opportunity to ask questions, answer ungraded concept-check polls, and participate in discussion.
 
-- A: TuTh 12:30-1:50PM in [Center Hall](https://maps.app.goo.gl/epiFTsQqRRPYn3ZX7) 212.
-- B: TuTh 2-3:20PM in [Center Hall](https://maps.app.goo.gl/epiFTsQqRRPYn3ZX7) 212.
+See the homepage of this website and the Resources tab for access to helpful resources that will help solidify your understanding of concepts covered in lecture. These include videos, slides, readings, and sometimes code. These will be your primary resources in this class, as there is no formal textbook.
 
-Lecture is meant to introduce you to the main concepts of the course. Attendance is highly encouraged and positively correlated with success in the course, though it will not be required. Attending lecture gives you the opportunity to ask questions, answer ungraded concept-check polls, and participate in discussion.
+Edit as of 6/27/2026: We plan to record lectures, but how, when, and where they will be posted is still TBD.
 
-Lectures will be podcasted recordings will be available at [podcast.ucsd.edu](https://podcast.ucsd.edu/) within a few hours, and also posted on the course homepage.
+### XXXX
 
-**You can attend any lecture section, but if space fills up, priority will be given to students officially enrolled in that section. For the Midterm Exam on Tuesday, May 7th, you must attend the lecture section in which you are officially enrolled.**
-
-See the homepage of this website and the [Resources](../resources) tab for access to helpful resources that will help solidify your understanding of concepts covered in lecture. These include videos, slides, readings, and sometimes code. These will be your primary resources in this class, as there is no formal textbook.
+This quarter, a portion of your grade will come from your contribution to the course in the form of posting on XXXX. 2% of your overall grade will come from your contributions to XXXX. **You must make two separate contributions on XXXX** in order to receive full credit, each will be equally weighted at 1%. These may be private posts, public posts, responses or answers to other student's posts, etc.
 
 ### Discussion
 
-Discussion sections will be primarily used to facilitate problem-solving in small groups with peers. There are two discussion sections on Monday evenings:
+Discussion sections will be primarily used to facilitate problem-solving in small groups with peers. 
 
-- A: Monday 4-4:50PM in [Center Hall](https://maps.app.goo.gl/epiFTsQqRRPYn3ZX7) 214.
-- B: Monday 5-5:50PM in [Center Hall](https://maps.app.goo.gl/epiFTsQqRRPYn3ZX7) 109.
+We will provide a worksheet of problems, which you will complete in a group of three or (ideally) four students. The groupwork should help reinforce concepts from the lecture and prepare you to do the upcoming homework assignment.
 
-We will provide a worksheet of problems, which you will complete in a group of two to four students. The groupwork should help reinforce concepts from the lecture and prepare you to do the upcoming homework assignment.
+Your worksheet is due to Gradescope on **Thursdays at 11:59PM**. Only one member of each group should submit the worksheet, and they should indicate the names of all group members on Gradescope. Groupwork must be typed using LaTeX. The purpose of this is to ensure that all students are exposed to LaTeX at some point, since it’ll be useful in later DSC courses as well. **In order to receive credit, you must work in a group of three or ideally four students for at least 50 minutes. You may not do the groupwork alone.** Your group members may change from week to week, just ensure you add the correct people on Gradescope.
 
-You can attend any discussion section, but if space fills up, priority will be given to students officially enrolled in that section.  **Attendance at discussion section is required for full credit on the groupwork, but if you cannot attend, you may complete the groupwork worksheet in a self-organized group of two to four students outside of the discussion section for 80 percent credit.** 
+You get credit for the groupwork portion of your grade through check-offs.
 
-If you have specific people in your section that you want to work with, you may work together, otherwise, the tutors in discussion will pair you with other students.
+#### How to get checked off for groupwork
 
-Your worksheet is due to Gradescope on **Mondays at 11:59PM**, starting in Week 2. Only one member of each group should submit the worksheet, and they should indicate the names of all group members on Gradescope. Worksheets won’t be graded on correctness, but rather on good-faith effort. Even if you don’t solve any of the problems, you should include some explanation of what you thought about and discussed, so that you can get credit for spending time on the assignment. **In order to receive credit, you must work in a group of two to four students for at least 50 minutes. You may not do the groupwork alone.**
+In order to help guide you, get you set up, and to meet people, there will be one big synchronous discussion section on Wednesday, July 1st. This discussion section meeting **will be mandatory to earn credit for that week's groupwork assignment.** The zoom link will be posted on XXXX. This section will look like the TA guiding through content, group work in breakout rooms, and walking through solutions. The TA will award credit by visiting all breakout rooms and checking students off for good-faith effort at the end of the meeting. 
+
+For groupworks 2-4 there will be no synchronous discussion section. Instead each group is required to sign up for a 5 minute check off meeting sometime on Wednesday or Thursday that week with the TA. The link to do so can be found here and on XXXX. You must sign up at least YYYY hours in advance of the meeting. There will be no makeup meetings outside of the time allotted by the TA. There will be more appointment slots than groups, so every group should be able to sign up for a time that works for them if they sign up early enough. 
 
 ### Homeworks
 
-This class will have weekly homework assignments, which will usually be due to Gradescope on **Thursdays at 11:59PM**.
+This class will have regular homework assignments, which will be due to Gradescope at regular intervals.
 
-Homeworks should be written or typed up and turned in by each student individually. If you want to type up your answers, we will provide a LaTeX template through Overleaf; click the 🍃 emoji next to each homework on the homepage to access the template. Follow [these instructions](https://www.overleaf.com/learn/how-to/Copying_a_project#Making_a_copy_of_a_project) to make a copy of the template, and then add your solutions.
-
-**Using the template is optional, except for Homework 2, for which it will be mandatory.** The purpose of this is to ensure that all students are exposed to LaTeX at some point, since it'll be useful in later DSC courses as well; we're requiring it in an earlier homework so that if you find that you like it, you'll choose to use it for the remainder of the homeworks. If you choose not to use the template in other homeworks, make sure that your handwriting is clearly legible – if we can't read what you've written, we can't give you points for it!
+Homeworks will not be accepted unless they are handwritten (paper or tablet is okay). If it takes us more than 5 seconds to figure out what you wrote you will receive a 0 on that portion of the homework; please write neatly and organized. In other words, make sure that your handwriting is clearly legible – if we can't read what you've written, we can't give you points for it!
 
 You may talk to other students in the class about the problems and discuss solution strategies, but you should not share any written communication. You can tell someone how to do a homework problem, but you cannot show them how to do it. One way to tell if you are respecting this boundary is to ask yourself whether your collaboration could take place over the phone. Additionally, the content of your verbal communication should involve the problem-solving strategy and approach, and you should not directly compare answers with classmates.
 
@@ -105,11 +102,18 @@ For each problem you submit, you should cite your sources by including a list of
 
 We also encourage you to come to instructor and staff office hours for help on homework questions. The homework assignments for this class are quite challenging and most students are not able to successfully complete the homework from attending lecture alone. Make sure to use the resources provided on the [Resources](../resources) tab of the course website, actively participate in groupwork sessions, and plan to attend office hours at least once a week. Even if you don’t have specific questions, you will likely get a lot out of conversing about the material. See the [Calendar](../calendar) tab of the course website for the most up-to-date schedule of office hours, and directions for how to find us!
 
-You may post homework-related questions on Ed, though your questions (and answers) should be about approaches, not answers. If your question includes some or all of an answer (even if you're not sure it's right), you must make your post private so that others cannot see it. We are not able to tell you whether your answer is correct. 
+You may post homework-related questions on XXXX, though your questions (and answers) should be about approaches, not answers. If your question includes some or all of an answer (even if you're not sure it's right), you must make your post private so that others cannot see it. We are not able to tell you whether your answer is correct. 
 
 ### Office Hours
 
-To get help on assignments and concepts, course staff will be hosting several office hours per week. All office hours will be held in person. See the [Calendar](../calendar) tab of the course website for the most up-to-date schedule.
+To get help on assignments and concepts, course staff will be hosting several office hours per week. There will be two types of office hours offered this summer:
+1. Community office hours: Once a week, there will be a 30 minute open zoom session for anyone to join! This is a great way to meet new students in the course, collaborate, and get to know staff members in a casual setting. This is the equivalent of Jordan sitting in her office with the door open. If this timing doesn’t work for you, feel free to sign up for a meeting using option #2. 
+2. Individual or group office hours: These will take place in the form of google calendar appointments. You may schedule as many of these as you feel necessary, up to X, throughout the week with either member of staff. These will be 20 minute appointments that you and whoever else you’d like may show up to. The goal with holding office hours this way is so that staff doesn’t waste precious work time waiting in an empty zoom room :(( and so students can have individual staff time. These are the office hours you should use if you have a personal or logistical question that can’t be answered over XXXX or email. 
+    * Jordan’s [appointment schedule link]()
+    * Eric’s [appointment schedule link]()
+
+Office hours are being under utilised more than ever, please take advantage of the time staff is offering you. Research shows that using OH helps succeed in computer science courses. We are here to help! 
+
 
 ### Weekly Schedule
 
@@ -117,8 +121,8 @@ To summarize, here's what a typical week will look like in the course (there may
 
 | Sunday | Monday | Tuesday | Wednesday | Thursday | Friday | Saturday |
 | -- | -- | -- | -- | -- | -- | -- |
-| | Discussion | Lecture  | | Lecture |  |  |
-| | **Groupwork due 11:59PM**| | | **Homework due 11:59PM** | | |
+| | Lecture |  | Lecture |  |  |  |
+| | | **Homework due 11:59PM** | | **Groupwork due 11:59PM** | **Homework due 11:59PM** | |
 
 ---
 
@@ -126,10 +130,10 @@ To summarize, here's what a typical week will look like in the course (there may
 
 There will be one Midterm Exam and one Final Exam, both held in person.
 
-- **Midterm Exam**: Tuesday, May 7th, in person, during your assigned lecture slot in Center Hall 212.
-- **Final Exam**: Saturday, June 8th, 8-11AM, location TBD.
+- **Midterm Exam**: Wednesday, July 15th, remote, during the lecture slot starting at 11:00 and running for ZZ amount of time.
+- **Final Exam**: Friday, July 31st, 11:30AM-2:30PM, remote.
 
-The Midterm Exam will be worth 20% of your overall course grade and will only cover content from Lectures 1-9. The Final Exam will be worth 30% of your overall course grade and will be cumulative.
+The Midterm Exam will be worth 20% of your overall course grade and will only cover content from Lectures 1-5. The Final Exam will be worth 30% of your overall course grade and will be cumulative.
 
 To prepare for exams, you should plan to spend a considerable amount of time working through past exam problems. We're building a bank of old exam problems, with detailed explanations, at [practice.dsc40a.com](https://practice.dsc40a.com).
 
@@ -149,39 +153,54 @@ Here's how we will compute your grade.
 
 | Component | Weight | Notes |
 | --- | --- | --- |
+| XXXX | 2% | |
+| Groupwork | 8% | |
 | Homework | 40% | drop lowest |
-| Groupwork | 10% | drop lowest |
 | Midterm Exam | 20% | |
 | Final Exam | 30% | see redemption policy above |
 
            
-### Late Policy, Slip Days, and Drops
+### Late Policy, Extension Policy, and Drops
 
-Each student has **four slip days** to use throughout the quarter. A slip day can be used to extend the deadline of a homework assignment by 24 hours. You can use at most one slip day on any single homework assignment. **Slip days can only be used for homework assignments.**
+<span style="color:red">No late work will be accepted on any assignments.</span>
 
-Slip days are applied automatically at the end of the quarter, and you don't need to ask in order to use one. It's your responsibility to keep track of how many you have left. If you run out of slip days and submit a homework late, it may still be graded so that you'll see what questions you missed, but the grade will be changed to a zero at the end of the quarter. If you use more than four slip days, we will count the first four late assignments, and any late assignments after that will get zero scores.
+#### Homeworks
 
-Slip days are designed to be a transparent and predictable source of leniency in deadlines. You can use a slip day if you are too busy to complete a homework on its original due date. But slips days are also meant for things like the internet going down at 11:58PM just as you go to submit your homework.
+Instead, if you need extra time on an assignment, you can request an extension [here](). All students will receive a singular one time one day extension with no questions asked that can apply only to homeworks. After that one day extension is used, staff reserves the right to review the reason for your request to either accept or decline it. All extensions will be granted on the order of days, not hours, so the shortest extension any student will be granted is 24 hours or one day; this means all deadlines will remain at 11:59PM unless otherwise stated.
+
+#### Groupwork
+
+The last chance to submit a groupwork worksheet is the night before the last available check-off meeting. The reasoning for this is that the TA needs to be able to review your work before meeting with you and you need to be prepared to answer questions the TA asks in the meeting. The extension will apply to the whole group since there is only one submission per group on Gradescope, so only one person in that group should submit the [google form]() to request an extension per assignment. You can request an extension [here](). No submission on Gradescope on a groupwork assignment will result in a 0 on that assignment even if you schedule a check off meeting that week. 
+
+**NOTE** We will try to respond to extension requests as quickly as possible, however, we are human (and in different time zones), so if you request an extension outside of business hours, please don’t expect a response until the next business day. This means, if you think you will need more time on an assignment it is better to request an extension earlier rather than later. 
+
+**NOTE** No extension requests after the 11:59pm deadline of the respective assignment will be accepted other than in extreme circumstances at the discretion of the instructor. So again, please request extensions sooner rather than later so you don’t miss this deadline. 
+
+**NOTE** The last deadline by which we will accept any work from this semester is July 31st, 2026 at 11:59pm (the day of the final exam). After this deadline no work will be accepted because we need to submit final grades.
 
 **If you have something going on in your life that is impeding your ability to do your classwork on time, please reach out to us as soon as possible so we can work something out.**
 
-In addition to providing you with slip days, we will drop your lowest homework and lowest groupwork. This gives you some additional flexibility for unforeseen circumstances.
+#### Drops
 
-Students on the waitlist or who join the class late are expected to keep up with the work and submit assignments by the deadlines.
+In addition to providing you with slip days, we will drop your lowest homework. This gives you some additional flexibility for unforeseen circumstances.
+
+#### Late adds 
+
+Students on the waitlist or who join the class late are expected to keep up with the work and submit assignments by the deadlines. We will not be lenient on deadlines for students who join the class late.
 
 The stated policies will be strictly enforced out of fairness for all students.
 
 ### Regrade Requests 
 
-You can ask for a regrade on any assignment if you believe that the grader made a mistake. Remember that clarity is a part of your score — if you had the right idea but were unable to clearly communicate it, you may still not deserve full credit. We ask that you please submit your regrade requests within one week of the assignment grade being released; you can submit regrade requests directly on Gradescope.
+You can ask for a regrade on any assignment if you believe that the grader made a mistake. Remember that clarity is a part of your score — if you had the right idea but were unable to clearly communicate it, you may still not deserve full credit. We ask that you please submit your regrade requests within three days of the assignment grade being released; you can submit regrade requests directly on Gradescope. Please be mindful that staff reserves the right to lower scores on regrade if that is what we deem fit. Additionally, repeated or redundant regrade requests may result in staff stopping consideration of future requests from you.
 
 ### Incomplete Grades
 
-In the unfortunate circumstance that you become sick, suffer a loss, or otherwise experience a significant setback that is outside of your control, you may be eligible for an Incomplete grade, which allows you to complete the rest of the work at a later time. If you are experiencing challenges due to circumstances outside your control, please contact me ASAP and we can discuss the best course of action. Note that an Incomplete does not allow you to re-do work that has already been completed, only to do work that hasn't been completed, so it's best to reach out right away.
+In the unfortunate circumstance that you become sick, suffer a loss, or otherwise experience a significant setback that is outside of your control, you may be eligible for an Incomplete grade, which allows you to complete the rest of the work at a later time. If you are experiencing challenges due to circumstances outside your control, please contact me ASAP and we can discuss the best course of action. Note that an Incomplete does not allow you to re-do work that has already been completed, only to do work that hasn’t been completed, so it’s best to reach out right away. Please keep in mind that you need to have at least completed the majority of the course to qualify for an incomplete.
 
 ### Academic Integrity
 
-In this class, we expect that you will work hard, utilize allowed resources to master the course material, and act with integrity. Learning partially remotely presents new challenges for academic integrity, making it more important than ever to act honorably and make sure that the work you are submitting is reflective of your knowledge and abilities.
+In this class, we expect that you will work hard, utilize allowed resources to master the course material, and act with integrity. Learning remotely presents new challenges for academic integrity, making it more important than ever to act honorably and make sure that the work you are submitting is reflective of your knowledge and abilities.
 
 The [UCSD Policy on Integrity of Scholarship](https://academicintegrity.ucsd.edu/process/policy.html) and this syllabus list some of the standards by which you are expected to complete your academic work, but your good ethical judgment is also expected. Ignorance of the rules will not excuse you from any violations.
 
@@ -218,7 +237,7 @@ From the [Office for Students with Disabilities (OSD)](https://osd.ucsd.edu/):
 
 >_OSD works with students with documented disabilities to review documentation and determine reasonable accommodations. Disabilities can occur in these areas: psychological, psychiatric, learning, attention, chronic health, physical, vision, hearing, and acquired brain injuries, and may occur at any time during a student’s college career. We encourage you to contact the OSD as soon as you become aware of a condition that is disabling so that we can work with you._
 
-If you already have accommodations via OSD, please make sure that we receive your Authorization for Accommodation (AFA) letter by the end of Week 2 so that we can make arrangements for accommodations. Share your AFA letter with the instructor and the Data Science OSD Liaison, who can be reached at [dscstudent@ucsd.edu](mailto:dscstudent@ucsd.edu). 
+If you already have accommodations via OSD, please make sure that we receive your Authorization for Accommodation (AFA) letter by the end of Week 2 so that we can make arrangements for accommodations. Share your AFA letter with the instructor [Jordan Schwartz](mailto:j6schwartz@ucsd.edu) and the Data Science OSD Liaison, who can be reached at [dscstudent@ucsd.edu](mailto:dscstudent@ucsd.edu). 
 
 ### Diversity and Inclusion
 
@@ -229,4 +248,4 @@ We also expect that you, as a student in this course, will honor and respect you
 
 ## Acknowledgements 🙏
 
-Thanks to other instructors of this course who have made various contributions, including but not limited to Janine Tiefenbruck, Aobo Li, Yian Ma, Gal Mishne, and Justin Eldridge. Thanks also to the many tutors and TAs who have supported this course since its inception!
+Thanks to other instructors of this course who have made various contributions, including but not limited to Nishant Kheterpal, Suraj Rampure, Janine Tiefenbruck, Aobo Li, Yian Ma, Gal Mishne, and Justin Eldridge. Thanks also to the many tutors and TAs who have supported this course since its inception!
