@@ -1013,8 +1013,6 @@ $$
 
 ---
 
-# UPDATE!!!
-
 Let's test these formulas out in code! Follow along by downloading the files on Piazza. [Google Colab](https://colab.research.google.com/drive/12tUzghmCllYEc2KhEmFzmc_7Dl_fHsQ2?usp=sharing) and [commute-times.csv](dev/commute-times.csv)
 
 <!-- <br> -->
